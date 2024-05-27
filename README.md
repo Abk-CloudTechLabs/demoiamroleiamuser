@@ -16,3 +16,6 @@ Enable Console Access Manually for new user using role
 Generate manual password
 
 Uncheck reset password after login
+
+login using user creds
+note account number and rolename:tfrolez have used
